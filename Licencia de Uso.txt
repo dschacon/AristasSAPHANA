@@ -1,0 +1,45 @@
+Licencia
+
+Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y acuerda estar obligado por los términos y condiciones de esta Licencia. 
+En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su 
+aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe 
+por poner a disposición el Material Licenciado bajo estos términos y condiciones.
+
+Material adaptado:
+Codigo en en sap hana
+
+Derechos de autor:
+Este codigo pertenece a Juan pablo carreño, Sebastian martinez, Diego chacon.
+
+Elementos:
+Codigo en sap hana que muestra una vista master master detail
+
+Derechos licenciado:
+Puede modificar y hacer uso del codigo para actividades netamente academicas.
+
+Licenciante:
+Universidad de los andes, Aristas.
+
+Este codigo no es comercial.
+
+Compartir este codigo fuera de los licenciados anteriormente mencionados no es permitido
+
+Al utilizar el codigo se bebe hacer referencia a los autores del codigo
+
+
+Salvo que el Licenciante se haya comprometido mediante un acuerdo por separado, en la medida de lo posible el Licenciante ofrece el Material Licenciado 
+tal como es y tal como está disponible y no se hace responsable ni ofrece garantías de ningún tipo respecto al Material Licenciado, ya sea de manera expresa, implícita, legal u otra. 
+Esto incluye, de manera no taxativa, las garantías de título, comerciabilidad, idoneidad para un propósito en particular, no infracción, ausencia de vicios ocultos u otros defectos, 
+la exactitud, la presencia o la ausencia de errores, sean o no conocidos o detectables. Cuando no se permita, totalmente o en parte, la declaración de ausencia de garantías, a Usted puede no aplicársele esta exclusión.
+
+Esta Licencia Pública tiene una vigencia de aplicación igual al plazo de protección de los Derechos de Autor y Derechos Similares licenciados aquí. Sin embargo, si Usted incumple las condiciones de esta Licencia Pública, 
+los derechos que se le conceden mediante esta Licencia Pública terminan automáticamente.
+
+El Licenciante no estará obligado por ningún término o condición adicional o diferente que Usted le comunique a menos que se acuerde expresamente.
+
+Cualquier arreglo, convenio o acuerdo en relación con el Material Licenciado que no se indique en este documento se considera separado e independiente de los términos y condiciones de esta Licencia Pública.
+
+Para evitar dudas, esta Licencia Pública no es ni deberá interpretarse como una reducción, limitación, restricción, o una imposición de condiciones al uso de Material Licenciado que legalmente pueda realizarse sin permiso del titular,
+más allá de lo contemplado en esta Licencia Pública.
+
+Licencia tomada de: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
