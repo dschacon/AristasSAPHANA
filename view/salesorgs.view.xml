@@ -1,0 +1,7 @@
+<mvc:View controllerName="gbi.controller.salesorgs" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+    <Page title="Empleados">
+        <List id="ShortCustomerList" headerText="Operarios" items="{gbi>/Empleados}">
+            <StandardListItem type="Active" press="handleListItemPress" title="{gbi>Nombre} {gbi>Apellido}" description="ID: {gbi>EmpleadoID}" />
+        </List>
+    </Page>
+</mvc:View>
